@@ -1,0 +1,2 @@
+# This helps to auto-detect text files and perform LF normalization.
+* text=auto
